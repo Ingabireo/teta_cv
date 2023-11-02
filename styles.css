@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.container-fluid {
+    padding-left: 60px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border-radius: 100%;
+}
+
+h1 {
+    padding: 5px;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.name {
+    font-size: 1.4rem;
+}
+
+p {
+    font-size: 0.75rem;
+}
+h4 {
+    font-size: 0.75rem;
+    font-weight:400;
+    /* padding-bottom: 4px; */
+}
+
+.small {
+    font-size: 0.5rem;
+    color: grey
+}
+
+.large {
+    width: 50%;
+}
+
+
+.profile {
+    margin-top: 40px;
+}
+
+.second {
+    font-family: 'Roboto', sans-serif;
+}
+
+.first {
+    color: antiquewhite;
+    background-color: #445D48;
+}
+ul {
+    padding-left: 25px;
+}
+li {
+    margin-bottom: 0;
+    padding-top: 16px;
+    padding-bottom: 0;
+}
